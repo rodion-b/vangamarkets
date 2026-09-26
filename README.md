@@ -1,6 +1,6 @@
 # Vanga Markets
 
-Website for **Vanga Markets** — a prediction market (politics, sport, currencies, culture), currently a demo with a waitlist. Domain: `vangamarkets.com` (`vanga.markets` redirects to it via Porkbun URL forwarding).
+Website for **Vanga Markets** — a platform for making predictions (politics, sport, currencies, culture), currently a demo with a waitlist. Domain: `vangamarkets.com` (`vanga.markets` redirects to it via Porkbun URL forwarding).
 
 This is a rebranded copy of the ZavtraMarket site ([rodion-b/zavtramarkets](https://github.com/rodion-b/zavtramarkets)): same code and design, with the Vanga name, logo and favicon. Changes made to one site are not copied to the other automatically.
 
